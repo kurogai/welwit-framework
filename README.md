@@ -1,7 +1,7 @@
 #
 
 <h1 align="center">
-    <img src="./images/yay.png" width="120">
+    <img src="yay.png" width="120">
     <p>
     Welwit Framework - Faster API creation and database configuration
     </p>
