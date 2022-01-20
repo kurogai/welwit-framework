@@ -1,0 +1,5 @@
+test={
+    id : INT~20-PK-AI,
+    var1 : STR~5,
+    var2 : STR~5
+}</quasum>;
