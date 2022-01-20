@@ -1,9 +1,9 @@
 #
 
 <h1 align="center">
-    <img src="./images/grandma.gif" width="120">
+    <img src="./images/yay.png" width="120">
     <p>
-    API GRANDMA - Faster API creation and database configuration
+    Welwit Framework - Faster API creation and database configuration
     </p>
 </h1>
 
@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-API Grandma is an CLI Framework based API and ORM builder, made to automate API development and database modeling. Supports costum route creation, code generation, automated scripts and much more.
+Welwit is an CLI Framework based API and ORM builder, made to automate API development and database modeling. Supports costum route creation, code generation, automated scripts and much more.
 Currently in alpha development, check the section #roadmap for more details.
 
 ## Overview
@@ -379,7 +379,6 @@ ________________________________________________________________________________
 ### Work with me
 My social media
 <ul>
-    <li>Facebook : </li>
-    <li>Linkedin : </li>
-    <li>Discord : </li>
+    <li>Facebook : Soon...</li>
+    <li>Linkedin : https://ao.linkedin.com/in/h%C3%A9ber-j%C3%BAlio-496120190/</li>
 </ul>
